@@ -127,6 +127,7 @@ venv/
 ENV/
 env.bak/
 venv.bak/
+chkn-Disease/
 
 # Spyder project settings
 .spyderproject
